@@ -1,4 +1,4 @@
-package withoutsolid;
+package solid_demo.withoutsolid;
 
 public class Player {
     AttackInterface attackType;

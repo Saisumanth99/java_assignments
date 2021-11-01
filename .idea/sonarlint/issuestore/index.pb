@@ -35,3 +35,17 @@ A
 src/io/output.txt,0\d\0d1b3dc179ce5b78a2e963383aa5e96b1ea9b939
 J
 src/io/CharacterCount.java,b\a\ba12211ecfc31e7cc7f96d48672349bf9ef2f5ed
+O
+src/namingconventions/brief.txt,9\7\9747f2a1fcaae311a3c70c8c40008ee61b66db4c
+D
+src/kyc/KYCForm.java,4\7\47de5dd00bfaecfe4c9298430b4b0021ea1a13f0
+D
+src/stream/Main.java,b\e\be6254d5ece0ce30c329ff1e9ff2d1a7ff875bfa
+G
+src/stream/Student.java,8\2\822f18441ab1d545bfee8a226c522021ebc13833
+X
+(src/solid_demo/withsolid/LandAttack.java,a\1\a1330ad7eed1642eb3c8d9c23faa4f52ffe7703d
+Z
+*src/solid_demo/withsolid/AerialAttack.java,7\9\792bf31db7eb3c6f5b7c00e6f60e14007eb7c2d0
+b
+2src/solid_demo/withsolid/AdvancedAerialAttack.java,8\b\8ba74850ce90b8a2c760e0c73b6ac0c9b90400b1

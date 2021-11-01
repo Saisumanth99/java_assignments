@@ -1,0 +1,15 @@
+
+Y
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8…ËÀíË/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼µœË
+l
+java:S1192"QDefine a constant instead of duplicating this literal "Computer Science" 6 times.(§ú³‘úÿÿÿÿ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Female" 9 times.(§ú³‘úÿÿÿÿ
+a
+java:S1192"KDefine a constant instead of duplicating this literal "Electronic" 5 times.(Å™Ï›
+k
+java:S3655U"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(²‹±ùÿÿÿÿ
+k
+java:S3655C"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(™í²ªúÿÿÿÿ

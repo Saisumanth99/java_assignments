@@ -1,4 +1,4 @@
-package withoutsolid;
+package solid_demo.withoutsolid;
 
 public class AerialAttack implements AttackInterface {
     public void shortRangeAttack(){
