@@ -10,9 +10,10 @@ public class Main {
         System.out.println("Enter your level");
         int level = scanner.nextInt();
         
-        System.out.println("Select your player 1)Earth King 2) Wind Lord");
+        System.out.println("Select your player");
+        for(int i=0; i<Configuration.playerCount; i++) System.out.println((i+1)+") "+Configuration.playerNames[i]);
         int index = scanner.nextInt();
-        if(level < 20){
+        if(level < Configuration.levelThreshold){
             if(index==1)
                 player.setAttackType(new LandAttack());
             else if(index == 2)
