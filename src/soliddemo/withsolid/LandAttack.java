@@ -1,6 +1,6 @@
-package solid_demo.withsolid;
+package soliddemo.withsolid;
 
-class LandAttack implements LandAttackInterface {
+class LandAttack implements LandPlayerAttackable {
     public void shortRangeAttack(){
         System.out.println("this is a short attack");
         killEnemy();

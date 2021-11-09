@@ -1,4 +1,4 @@
-package solid_demo.withoutsolid;
+package soliddemo.withoutsolid;
 
 interface AttackInterface {
     void killEnemy();

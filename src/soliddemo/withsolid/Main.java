@@ -1,17 +1,17 @@
-package solid_demo.withsolid;
+package soliddemo.withsolid;
 
 import java.util.Scanner;
 
-public class Example {
+public class Main {
     public static void main(String[] args) {
         
         Player player = new Player();
-        Scanner sc = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your level");
-        int level = sc.nextInt();
+        int level = scanner.nextInt();
         
         System.out.println("Select your player 1)Earth King 2) Wind Lord");
-        int index = sc.nextInt();
+        int index = scanner.nextInt();
         if(level < 20){
             if(index==1)
                 player.setAttackType(new LandAttack());
@@ -25,8 +25,8 @@ public class Example {
         }
 
         System.out.println("enter 1 to attack");
-        if(sc.nextInt() == 1) player.attack();
-        sc.close();
+        if(scanner.nextInt() == 1) player.attack();
+        scanner.close();
 
 
     }

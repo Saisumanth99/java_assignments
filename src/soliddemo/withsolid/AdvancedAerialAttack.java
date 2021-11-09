@@ -1,4 +1,4 @@
-package solid_demo.withsolid;
+package soliddemo.withsolid;
 
 class AdvancedAerialAttack extends AerialAttack {
     public void midRangeAttack(){

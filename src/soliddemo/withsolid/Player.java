@@ -1,8 +1,8 @@
-package solid_demo.withsolid;
+package soliddemo.withsolid;
 
 class Player {
-    AttackInterface attackType;
-    void setAttackType(AttackInterface attackType){
+    PlayerAttackable attackType;
+    void setAttackType(PlayerAttackable attackType){
         this.attackType = attackType;
     }
     void attack(){
