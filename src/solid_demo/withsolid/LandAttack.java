@@ -1,4 +1,4 @@
-package withsolid;
+package solid_demo.withsolid;
 
 class LandAttack implements LandAttackInterface {
     public void shortRangeAttack(){

@@ -1,4 +1,4 @@
-package withsolid;
+package solid_demo.withsolid;
 
 import java.util.Scanner;
 

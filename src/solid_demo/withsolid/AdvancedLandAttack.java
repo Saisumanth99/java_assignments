@@ -1,4 +1,4 @@
-package withsolid;
+package solid_demo.withsolid;
 
 class AdvancedLandAttack extends LandAttack {
     public void midRangeAttack(){
